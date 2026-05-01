@@ -157,8 +157,6 @@ body {
   background-color: #be8dbd;
   padding: 40px 0;
 }
-#contact{background-color:#be8dbd ;
-padding: 40px o;}
 
 /* HORIZONTAL LAYOUT */
 .row {
@@ -200,7 +198,6 @@ button {
 
 /* FOOTER */
 footer {
- 
   text-align: center;
   padding: 15px;
   background: #eee;
