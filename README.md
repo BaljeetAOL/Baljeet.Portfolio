@@ -15,4 +15,4 @@ GitHub Pages.
 - HTML5
 - CSS3
 - GitHub Pages
-Thank you for your time to read this.
+-Thank you for your time to read this.
